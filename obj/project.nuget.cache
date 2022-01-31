@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EsrSmIlNH4BQZAXgtoe+YNiTD9Smj9zN/9U4BEDZTkI73EgrP3JhjILwAoiOGcinsX13dYQGeVURqUqPUub1+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ngbun\\source\\repos\\Milesstone1\\Milesstone1\\Milesstone1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngbun\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\ngbun\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
